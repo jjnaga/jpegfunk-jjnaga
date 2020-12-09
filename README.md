@@ -1,7 +1,6 @@
 # jpegfunk
 
 A C program that applies a funky filter to a jpeg image.
-
 Dependencies: 
 
   - libjpeg (on Ubuntu: `sudo apt install libjpeg-dev`)
